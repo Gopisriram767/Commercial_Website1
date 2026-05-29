@@ -412,7 +412,7 @@ footer {
 
 ![alt text](services.png)
 
-![alt text](about.png)
+![alt text](<about us.png>)
 
 ![alt text](contact.png)
 
